@@ -4,7 +4,7 @@
 
 [https://newsapi.org/](url)
 
-**MADE by: [Dharamveer M. Gupta](https://www.linkedin.com/in/dharamveer-gupta/ "LinkedIn Profile") (guptadharamveer53@gmail.com)**
+**MADE by: [Sudeep Menon](https://www.linkedin.com/in/sudeep-menon/ "LinkedIn Profile") (sudeepmenon47@gmail.com)**
 
 **Features:**
 - Beautiful UI with Animations made with Material Design Guidelines by Google.
